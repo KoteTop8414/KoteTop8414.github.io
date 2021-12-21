@@ -1,3 +1,4 @@
+{https://youtube.com}
 # Привет!
 у меня есть вопрос ты амогус?
 пройди опрос: https://forms.gle/1ngmB3KB1PfGtAzx8
