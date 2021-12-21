@@ -4,6 +4,11 @@
 дискорд: KoteTop_8413#0286
 твич: https://www.twitch.tv/kotetop8413
 
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+
 
 
 слушай:
