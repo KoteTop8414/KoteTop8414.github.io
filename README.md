@@ -26,5 +26,7 @@
   https://github.com/KoteTop8414/serverMinecraft/tree/main
   
   
-если ты с сервера то тебе вот сюды:
+документация по серверу:
+
+https://www.dropbox.com/s/qs8jwnwdis71a0e/server_info.html?dl=1
   
