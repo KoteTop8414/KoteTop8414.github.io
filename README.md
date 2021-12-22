@@ -19,14 +19,9 @@
 
 
 
-проэкт майнкрафт:
-  у меня есть сервер на версию 1.12.2
-  с модами и плагинами 
-  зайди и посмотри моды сервер
+документация по серверу майнкрафт
   https://github.com/KoteTop8414/serverMinecraft/tree/main
   
   
-документация по серверу:
 
-https://www.dropbox.com/s/qs8jwnwdis71a0e/server_info.html?dl=1
   
