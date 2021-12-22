@@ -8,6 +8,11 @@
 
 
 
+
+[мои готовые серверы](https://kotetop8414.github.io/servers_download/)
+
+
+
 слушай:
 есть к тебе предложение!
 заходи на сайт https://vimeworld.ru/
