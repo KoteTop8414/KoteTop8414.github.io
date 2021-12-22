@@ -1,3 +1,5 @@
+
+
 # KoteTop_8413 (KoteTop8414)
 кстати у меня есть ютуб дискорд и твич
 вот ссылки: ютуб - https://www.youtube.com/channel/UCesFGmiO66ENNL5wcj1CTYQ
@@ -21,6 +23,7 @@
 
 документация по серверу майнкрафт
   https://github.com/KoteTop8414/serverMinecraft/tree/main
+  если хочешь можешь зайти на [сайт сервера](https://kotetop8414.github.io/tinkermod)
   
   
 
