@@ -8,6 +8,10 @@
 
 
 
+[видео](https://kotetop8414.github.io/videos)
+
+
+
 
 [мои готовые серверы](https://kotetop8414.github.io/servers_download/)
 
