@@ -1,21 +1,21 @@
 
 
 # KoteTop_8413 (KoteTop8414)
-кстати у меня есть ютуб дискорд и твич
-[мой ютуб](https://www.youtube.com/channel/UCesFGmiO66ENNL5wcj1CTYQ)
-дискорд: KoteTop_8413#0286
-[твич](https://www.twitch.tv/kotetop8413)
-[вк](https://vk.com/kotetop8413)
+# Привет!
+Кстати у меня есть ютуб дискорд и твич.
+[мой ютуб](https://www.youtube.com/channel/UCesFGmiO66ENNL5wcj1CTYQ) ,
+дискорд: KoteTop_8413#0286 ,
+[твич](https://www.twitch.tv/kotetop8413) ,
+[вк](https://vk.com/kotetop8413) ,
 
 
 
 
-[видео](https://kotetop8414.github.io/videos)
 
 
 
 
-[мои готовые серверы](https://kotetop8414.github.io/servers_download/)
+[мои готовые серверы](https://kotetop8414.github.io/servers_download/) .
 
 
 
@@ -30,15 +30,16 @@
 
 
 
-[мои проекты](https://kotetop8414.github.io/projects/)
+[мои проекты](https://kotetop8414.github.io/projects/)  .
 
 
 
 
 
-документация по серверу майнкрафт
-  https://github.com/KoteTop8414/serverMinecraft/tree/main
-  если хочешь можешь зайти на [сайт сервера](https://kotetop8414.github.io/tinkermod)
+[документация по серверу майнкрафт](https://github.com/KoteTop8414/serverMinecraft/tree/main)  .
+
+
+  если хочешь можешь зайти на [сайт сервера](https://kotetop8414.github.io/tinkermod)  .
   
   
 
