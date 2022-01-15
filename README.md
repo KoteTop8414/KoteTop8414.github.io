@@ -9,6 +9,9 @@
 [вк](https://vk.com/kotetop8413) ,
 
 
+[стартовый файл python](https://disk.yandex.ru/d/YkIj_TdreF_-sA)
+
+
 
 
 
