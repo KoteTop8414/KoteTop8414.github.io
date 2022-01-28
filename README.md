@@ -4,7 +4,7 @@
 # Привет!
 Кстати у меня есть ютуб дискорд и твич.
 [мой ютуб](https://www.youtube.com/channel/UCesFGmiO66ENNL5wcj1CTYQ) ,
-дискорд: KoteTop_8413#0286 ,
+дискорд: KoteTop_8413#7502 ,
 [твич](https://www.twitch.tv/kotetop8413) ,
 [вк](https://vk.com/kotetop8413) ,
 
