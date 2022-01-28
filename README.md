@@ -9,10 +9,6 @@
 [вк](https://vk.com/kotetop8413) ,
 
 
-[стартовый файл python](https://disk.yandex.ru/d/YkIj_TdreF_-sA)
-
-
-
 
 
 
@@ -22,14 +18,6 @@
 
 
 
-слушай:
-есть к тебе предложение!
-заходи на [сайт](https://vimeworld.ru)
-скачай лаунчер 
-зайди на сервер Flair
-и пропиши команду /tpa KoteTop_8413
-если напишет что игрок сейчас оффлайн
-то напиши мне в дискорд он сверху!
 
 
 
@@ -39,10 +27,6 @@
 
 
 
-[документация по серверу майнкрафт](https://github.com/KoteTop8414/serverMinecraft/tree/main)  .
-
-
-  если хочешь можешь зайти на [сайт сервера](https://kotetop8414.github.io/tinkermod)  .
   
   
 
