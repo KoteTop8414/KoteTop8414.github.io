@@ -4,7 +4,8 @@
 
 
 [скачать тему для дискорда(betterdiscord)](https://kotetop8414.github.io/top.css)
-# KoteTop_8413 (KoteTop8414)
+
+KoteTop_8413 (KoteTop8414)
 # Привет!
 Кстати у меня есть ютуб дискорд и твич.
 [мой ютуб](https://www.youtube.com/channel/UCesFGmiO66ENNL5wcj1CTYQ) ,
