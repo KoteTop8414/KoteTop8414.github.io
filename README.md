@@ -1,5 +1,6 @@
 
 кнопки которые [вот так светятся](https://google.com) можно нажать!
+[скачать тему для дискорда(betterdiscord)](https://kotetop8414.github.io/top.ccs)
 # KoteTop_8413 (KoteTop8414)
 # Привет!
 Кстати у меня есть ютуб дискорд и твич.
