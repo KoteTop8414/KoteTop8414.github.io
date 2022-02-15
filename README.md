@@ -3,7 +3,7 @@
 
 
 
-[скачать тему для дискорда(betterdiscord)](https://kotetop8414.github.io/file:top.theme.css)
+[скачать тему для дискорда(betterdiscord)](https://www.dropbox.com/s/6lg67ueblw3tiiz/TOP.theme.css?dl=1)
 
 KoteTop_8413 (KoteTop8414)
 # Привет!
