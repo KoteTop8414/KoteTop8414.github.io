@@ -12,7 +12,7 @@ KoteTop_8413 (KoteTop8414)
 дискорд: KoteTop_8413#7502 ,
 [твич](https://www.twitch.tv/kotetop8413) ,
 [вк](https://vk.com/kotetop8413) ,
-[другая страница](idle.html)
+[другая страница](html/idle.html)
 
 
 
