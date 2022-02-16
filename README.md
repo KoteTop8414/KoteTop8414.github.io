@@ -1,5 +1,5 @@
 
-кнопки которые [вот так светятся](https://google.com) можно нажать!
+кнопки которые [вот так светятся](https://kotetop8414.github.io/idle) можно нажать!
 
 
 
@@ -8,10 +8,11 @@
 KoteTop_8413 (KoteTop8414)
 # Привет!
 Кстати у меня есть ютуб дискорд и твич.
-[мой ютуб](https://www.youtube.com/channel/UCesFGmiO66ENNL5wcj1CTYQ) ,
+[мой ютуб](html/idle.html) ,
 дискорд: KoteTop_8413#7502 ,
 [твич](https://www.twitch.tv/kotetop8413) ,
-[вк](https://vk.com/kotetop8413) ,
+[вк](html/idle.html) ,
+[другая страница](html/idle.html)
 
 
 
